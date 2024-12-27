@@ -395,7 +395,7 @@
                                 className:
                                   "text-lg md:text-2xl text-gray-300 mb-4 font-shadows",
                                 children: [
-                                  "This coin is the heartbeat of Pnut's Freedom Farm Animal Sanctuary, a haven for dozens of rescued horses, cats, and raccoons. It embodies founder Mark Longo's profound vision - more than a financial instrument, but a living commitment to those who cannot speak for themselves.",
+                                  "This coin is the heartbeat of Pnut's Freedom Farm Animal Sanctuary, a haven for dozens of rescued horses, cats, and raccoons. It is more than a financial instrument, but a living commitment to those who cannot speak for themselves.",
                                   " ",
                                 ],
                               }),
