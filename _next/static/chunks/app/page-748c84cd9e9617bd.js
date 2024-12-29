@@ -82,7 +82,7 @@
       }
       var o = s(8331);
       let n = JSON.parse(
-        '{"WJ":"https://t.me","kR":"https://x.com","Nu":"https://dexscreener.com/ethereum/0xComingSoon","xT":"#","Xn":"https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet","SC":"https://etherscan.io/address/0xComingSoon"}'
+        '{"WJ":"https://t.me/JFPeanut_meme","kR":"https://x.com/JFPeanut_meme","Nu":"https://dexscreener.com/ethereum/0x","xT":"#","Xn":"https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000","SC":"https://etherscan.io/address/0xComingSoon"}'
       );
       function c() {
         let [e, a] = (0, l.useState)(0),
