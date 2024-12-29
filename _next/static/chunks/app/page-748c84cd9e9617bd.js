@@ -82,7 +82,7 @@
       }
       var o = s(8331);
       let n = JSON.parse(
-        '{"WJ":"https://t.me/JFPeanut_meme","kR":"https://x.com/JFPeanut_meme","Nu":"https://dexscreener.com/ethereum/0x","xT":"#","Xn":"https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xA6333E078d015c658759cD3F8f8FA55248E4dAF9","SC":"https://etherscan.io/address/0xA6333E078d015c658759cD3F8f8FA55248E4dAF9"}'
+        '{"WJ":"https://t.me/JFPeanut_meme","kR":"https://x.com/JFPeanut_meme","Nu":"https://dexscreener.com/ethereum/0x789af0c30b02a6954708c9972d226c3d090502f1","xT":"#","Xn":"https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xA6333E078d015c658759cD3F8f8FA55248E4dAF9","SC":"https://etherscan.io/address/0xA6333E078d015c658759cD3F8f8FA55248E4dAF9"}'
       );
       function c() {
         let [e, a] = (0, l.useState)(0),
